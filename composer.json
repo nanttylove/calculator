@@ -1,0 +1,15 @@
+{
+    "name": "nanttylove/calculator",
+    "authors": [
+        {
+            "name": "Pranaya Keawkhiawluang",
+            "email": "nanttylove@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "nanttylove\\Calculator\\":"src/"
+        }
+    }
+}
